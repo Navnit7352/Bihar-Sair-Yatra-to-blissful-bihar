@@ -35,4 +35,37 @@ Ensure you have the following installed:
 
    ```bash
    [git clone https://github.com/yourusername/biahr-sair.git](https://github.com/Navnit7352/Bihar-Sair-Yatra-to-blissful-bihar.git)
-   '''
+   ```
+2.  **Navigate to the project directory:**
+   ```base
+   cd bihar-sair
+   ```
+3. **Install frontend dependencies:**
+   ```bash
+   cd frontend
+   npm install
+   ```
+4. **Install backend dependencies:**
+   ```bash
+   cd backend
+   npm i
+   ```
+5. **Set up environment variables:**
+   ```bash
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+
+   ```
+
+6. **Start the development server:**
+   ```bash
+   cd frontend
+   npm start
+
+   ```
+   ```bash
+   cd backend
+   npm start run dev
+   ```
+7. User Interface
+   
