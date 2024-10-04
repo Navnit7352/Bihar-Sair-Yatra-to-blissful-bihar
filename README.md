@@ -34,7 +34,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   [git clone https://github.com/yourusername/biahr-sair.git](https://github.com/Navnit7352/Bihar-Sair-Yatra-to-blissful-bihar.git)
+   [git clone https://github.com/Navnit7352/Bihar-Sair-Yatra-to-blissful-bihar.git]
    ```
 2.  **Navigate to the project directory:**
    ```base
