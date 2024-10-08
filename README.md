@@ -68,4 +68,5 @@ Ensure you have the following installed:
    npm start run dev
    ```
 7. User Interface
-   
+   <img width="959" alt="biharSair" src="https://github.com/user-attachments/assets/636e14a7-2ddd-4f90-b78a-07034f0be1a9">
+
