@@ -70,3 +70,6 @@ Ensure you have the following installed:
 7. User Interface
    <img width="959" alt="biharSair" src="https://github.com/user-attachments/assets/636e14a7-2ddd-4f90-b78a-07034f0be1a9">
 
+   ![Screenshot (235)](https://github.com/user-attachments/assets/d48218ca-42b6-42b0-b55b-56cb0ed12f50)
+
+
